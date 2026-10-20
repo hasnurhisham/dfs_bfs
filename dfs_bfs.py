@@ -4,7 +4,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 from collections import deque
 
-GRAPH = {'A':['D','B'], 'B':['C','E'], 'D':['C'], 'C':['A'], 'E':['H'], 'H':['G','F'], 'G':['F'], 'F':[]}
+GRAPH = {'A':['D','B'], 'B':['C','E','G'], 'D':['C'], 'C':['A'], 'E':['H'], 'H':['G','F'], 'G':['F'], 'F':[]}
 
 
 def normalize(graph):
