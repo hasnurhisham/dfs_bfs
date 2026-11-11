@@ -1,21 +1,3 @@
-# BSD3513 Artificial Intelligence — Lab Report 1
-**Interactive Uninformed Search Algorithms (BFS & DFS)**
-
-
-## 📌 Project Overview
-This repository contains the interactive web application prototype developed for **BSD3513 Introduction to Artificial Intelligence (Lab Report 1)** at **Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)**. 
-
-The application visualizes and compares two fundamental uninformed search algorithms:
-* **Breadth-First Search (BFS):** Level-by-level state-space traversal using a First-In, First-Out (FIFO) queue data structure[cite: 1, 21].
-* **Depth-First Search (DFS):** Deep path state-space traversal using a Last-In, First-Out (LIFO) stack data structure with tie-breaking rules[cite: 1, 26].
-
----
-
-## 🔗 Live Application & Links
-* **Live Streamlit App:** https://lab-report1-dfs-bfs.streamlit.app 
-* **GitHub Repository:** https://github.com/hasnurhisham/dfs_bfs.git 
-
-
 BFS & DFS Search Algorithms Web Application (Streamlit)
 
 A web-based interactive application built with Streamlit, Python, NetworkX, and Matplotlib to visualize, step through, and analyze the execution of Uninformed Search Algorithms—Breadth-First Search (BFS) and Depth-First Search (DFS)—on directed graphs.
