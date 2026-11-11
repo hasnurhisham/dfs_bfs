@@ -1,9 +1,6 @@
 # BSD3513 Artificial Intelligence — Lab Report 1
 **Interactive Uninformed Search Algorithms (BFS & DFS)**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📌 Project Overview
 This repository contains the interactive web application prototype developed for **BSD3513 Introduction to Artificial Intelligence (Lab Report 1)** at **Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)**. 
@@ -15,8 +12,8 @@ The application visualizes and compares two fundamental uninformed search algori
 ---
 
 ## 🔗 Live Application & Links
-* **Live Streamlit App:** [Insert Your Deployed Streamlit URL Here]
-* **GitHub Repository:** [Insert Your GitHub Repository URL Here]
+* **Live Streamlit App:** https://lab-report1-dfs-bfs.streamlit.app 
+* **GitHub Repository:** https://github.com/hasnurhisham/dfs_bfs.git 
 
 ---
 
