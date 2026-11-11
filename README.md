@@ -35,5 +35,4 @@ Make sure you have Python 3.9+ installed on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/BSD3513-Lab1-BFS-DFS.git](https://github.com/YOUR_USERNAME/BSD3513-Lab1-BFS-DFS.git)
-cd BSD3513-Lab1-BFS-DFS
+gh repo clone hasnurhisham/dfs_bfs 
